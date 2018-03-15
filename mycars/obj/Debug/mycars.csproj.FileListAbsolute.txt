@@ -1,0 +1,17 @@
+C:\Users\Akira\source\repos\mycars\mycars\bin\Debug\mycars.exe.config
+C:\Users\Akira\source\repos\mycars\mycars\bin\Debug\mycars.exe
+C:\Users\Akira\source\repos\mycars\mycars\bin\Debug\mycars.pdb
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.csprojResolveAssemblyReference.cache
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\MainWindow.g.cs
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\App.g.cs
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars_MarkupCompile.cache
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars_MarkupCompile.lref
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\MainWindow.baml
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.g.resources
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.Properties.Resources.resources
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.csproj.GenerateResource.Cache
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.csproj.CoreCompileInputs.cache
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.exe
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\mycars.pdb
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\addCarsWindow.g.cs
+C:\Users\Akira\source\repos\mycars\mycars\obj\Debug\addCarsWindow.baml
